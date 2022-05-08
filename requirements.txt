@@ -3,4 +3,4 @@ Pillow==9.1.0
 plotly==5.4.0
 streamlit==1.9.0
 streamlit_autorefresh==0.0.1
-~treamlit==1.8.1
+
